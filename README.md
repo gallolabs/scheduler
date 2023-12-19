@@ -1,4 +1,7 @@
-# Scheduler
+<p align="center">
+    <img height="200" src="logo_w200.jpeg">
+  <p align="center"><strong>Gallo schedule</strong></p>
+</p>
 
 This is not a tasker.
 
