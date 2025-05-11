@@ -125,3 +125,5 @@ The AggregateIterator allows you to iterate over dates mixing various logics, fo
 - Exclude periods ?
 - Aggregate consider double with arbitrary precision ?
 - Dynamic startDates / Dates to be able to have start date depending on the first next() call (NowIterator can be cool, but others have static startDate, so no coherent)
+- Add support for https://github.com/cuu508/oncalendar ?
+- Add support of https://www.npmjs.com/package/timespan-parser ?
